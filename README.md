@@ -1,7 +1,7 @@
 # tirulo de proyecto : proyecto plataforma de civer seguridad asi meza
 # # Fases y actividades del proyecto APTI
 # # **I. inicion**
-_1.1 Carta de inicio-project charter 
+1.1 Carta de inicio-project charter 
 -1.2 plan de los interesados
 # **II. Planeacion**  
 _2.1 plan de comunicacion 
