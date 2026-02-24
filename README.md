@@ -1,5 +1,5 @@
 # tirulo de proyecto : proyecto plataforma de civer seguridad asi meza
-# # Fases y actividades del p´royecto APTI
+# # Fases y actividades del proyecto APTI
 # # **I. inicion**
 _1.1 Carta de inicio-project charter 
 -1.2 plan de los interesados
@@ -15,7 +15,7 @@ _3.1.1 analisis de softwer
 _3.1.2 diseño de softwer
 _3.1.3 desarrollo de softwer
 _3-1-4 pruebas de software 
-# ** IV. cierre **
+# **IV. cierre**
 _4.1 Evaluacion de proyectos 
 _4.2 mejora continua 
 _4.3 COntratos de aceptacion y conclucion FODA 
